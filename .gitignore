@@ -1,0 +1,28 @@
+# Output
+*.jpg
+*.jpeg
+*.png
+*.log
+ImgTurbo_*.log
+ImgDownscaler_*.log
+
+# FFmpeg
+ffmpeg.exe
+ffprobe.exe
+ffplay.exe
+ffmpeg-*.zip
+tools/
+
+# File temporanei
+*.tmp
+*.zip
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
